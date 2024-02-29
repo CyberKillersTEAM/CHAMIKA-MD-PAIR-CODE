@@ -1,5 +1,5 @@
 {
-  "name": "CHAMIKA-MD-PAIR-CODE",
+  "name": "PairCode",
   "version": "1.0.0",
   "description": "Connect Whatsapp With Baileys Code Pairing",
   "main": "index.js",
@@ -13,23 +13,27 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CyberKillersTEAM/CHAMIKA-MD-PAIR-CODE.git"
+    "url": "git+https://github.com/DGXeon/Xeon-PairCode.git"
   },
   "author": "DGXeon",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
     "@colors/colors": "1.5.0",
-    "@whiskeysockets/baileys": "^6.5.0",
+    "@whiskeysockets/baileys": "^6.6.0",
     "cfonts": "~2.10.0",
     "chalk": "~4.1.0",
     "fs-extra": "^11.1.1",
+    "libphonenumber-js": "^1.10.51",
+    "node-cache": "^5.1.2",
     "path": "^0.12.7",
     "pino": "^8.1.0",
-    "qrcode-terminal": "^0.12.0"
+    "qrcode-terminal": "^0.12.0",
+    "megajs": "^1.1.0",
+    "pastebin-js": "latest"
   },
   "bugs": {
-    "url": "https://github.com/CyberKillersTEAM/CHAMIKA-MD-PAIR-CODE/issues"
+    "url": "https://github.com/DGXeon/Xeon-PairCode/issues"
   },
-  "homepage": "https://github.com/CyberKillersTEAM/CHAMIKA-MD-PAIR-CODE#readme"
+  "homepage": "https://github.com/DGXeon/Xeon-PairCode#readme"
 }
